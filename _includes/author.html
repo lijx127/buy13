@@ -9,7 +9,7 @@
       <div class="author-bio">{{site.owner.bio}}</div>
     </div>
     <div class="author-share">
-      <img class="author-img" src="{{site.url}}/{{site.owner.avatar}}" alt="{{site.owner.name}}" />
+      <img src="{{site.url}}/{{site.owner.avatar}}" alt="{{site.owner.name}}" />
       <ul class="list-inline social-buttons">
         {% for network in site.social %}
           <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
