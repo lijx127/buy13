@@ -18,13 +18,13 @@ url: http://buy13.com
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Home'
+  - title: '主页'
     url: '/'
   - title: 'Fork'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
   - title: 'Install'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
-  - title: 'Tags'
+  - title: '标签'
     url: '/tags'
   - title: 'Categories'
     url: '/categories'
