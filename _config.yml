@@ -39,9 +39,9 @@ menu:
       - title: 'BESTKEEP跨境淘'
         url: 'http://www.bestkeep.cn/'
       - title: '无花果Figtoo'
-        url: 'http://www.figtoo.com/'
+        url: '#http://www.figtoo.com/'
       - title: '5KM'
-        url: 'http://www.5km.me/#/'
+        url: '#http://www.5km.me/#/'
 
 # Owner/author information
 owner:
