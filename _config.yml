@@ -30,10 +30,10 @@ menu:
     submenu:
       - title: '赤链通行证'
         url: 'https://passport.reeed.org/#/'
-      - title: '赤链官网'
-        url: 'https://www.reeed.org/#/'
       - title: '赤壁集市'
-        url: 'https://www.tangkc.com/'
+        url: 'https://www.tangkc.com/'        
+      - title: '光轴链'
+        url: 'https://www.xrayx.pro/#/'
       - title: '赤链应用市场'
         url: 'http://apps.utouu.com/'
       - title: 'BESTKEEP跨境淘'
