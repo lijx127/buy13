@@ -20,11 +20,11 @@ url: http://buy13.com
 menu:
   - title: '主页'
     url: '/'
-  - title: '标签'
-    url: '/tags'
-  - title: '分类'
+  - title: '文章分类'
     url: '/categories'
     type: 'categories'
+  - title: '标签'
+    url: '/tags'
   - title: '常用网址'
     url: '#'
     submenu:
