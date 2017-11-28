@@ -27,7 +27,7 @@ menu:
     url: '/tags'
   - title: '常用网址'
     url: '#'
-    submenu:
+    submenuhttp:
       - title: '赤链通行证'
         url: 'https://passport.reeed.org/#/'
       - title: '赤链官网'
