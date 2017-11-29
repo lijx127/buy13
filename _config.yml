@@ -51,13 +51,13 @@ owner:
   bio:            "币圈人都爱的微信公众号——微信扫一扫！获取炒币秘籍！"
   email:          utouu6@126.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
+  # twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: aron-bordin
+  # github: aron-bordin
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter:
+# twitter:
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
